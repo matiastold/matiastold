@@ -19,4 +19,4 @@ Apasionado por la maquetación web, el desarrollo asistido por Inteligencia Arti
 * **Landing Page "Reencuentro con la Palabra":** Sitio web interactivo e híbrido para el evento cultural local de Monteros, con biblioteca multimedia, inscripción y contador en tiempo real.
 * **Portfolio Personal:** Sitio web moderno desarrollado con React, TypeScript y Tailwind CSS.
 
-📫 **¿Conectamos?** Encontrame en [tu LinkedIn](www.linkedin.com/in/matias-toledo-dev) o escribime a tu correo.
+📫 **¿Conectamos?** Encontrame en [tu LinkedIn](https://www.linkedin.com/in/matias-toledo-dev/) o escribime a tu correo.
